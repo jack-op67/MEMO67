@@ -1,4 +1,6 @@
 [changelog]
+  [788-20241230] - Improvements to handling controllers.
+
   [787-20241217] - Bug fixes.
 
   [786-20241216] - Found collider terrain bug.
