@@ -1,4 +1,6 @@
 [changelog]
+  [790-20250102] - Bug hunting.
+
   [789-20250101] - Cleanup.
 
   [788-20241230] - Improvements to handling controllers.
