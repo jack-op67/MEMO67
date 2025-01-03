@@ -1,4 +1,6 @@
 [changelog]
+  [791-20250103] - Bug found.
+
   [790-20250102] - Bug hunting.
 
   [789-20250101] - Cleanup.
