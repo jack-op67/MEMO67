@@ -1,4 +1,6 @@
 [changelog]
+  [793-20250105] - Cleanup.
+
   [792-20250104] - Fixed bug with terrain collision.
 
   [791-20250103] - Bug found.
