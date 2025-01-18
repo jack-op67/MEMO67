@@ -1,4 +1,6 @@
 [changelog]
+  [794-20250110] - Where necessary, all components now using custom memory allocator.
+
   [793-20250105] - Cleanup.
 
   [792-20250104] - Fixed bug with terrain collision.
