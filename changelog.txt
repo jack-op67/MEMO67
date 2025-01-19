@@ -1,6 +1,7 @@
 [changelog]
   [795-20250119] - Collider quadtree resizing handled properly after zone
   changes.
+  [796-20250119] - Fixed bug with gltf parsing.
 
   [794-20250110] - Where necessary, all components now using custom memory allocator.
 
