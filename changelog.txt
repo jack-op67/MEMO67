@@ -1,4 +1,7 @@
 [changelog]
+  [795-20250119] - Collider quadtree resizing handled properly after zone
+  changes.
+
   [794-20250110] - Where necessary, all components now using custom memory allocator.
 
   [793-20250105] - Cleanup.
