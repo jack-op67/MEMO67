@@ -1,5 +1,6 @@
 [changelog]
-  [797-20250120] - .
+  [798-20250313] - .
+  [797-20250312] - .
 
   [796-20250119] - Fixed bug with gltf parsing.
   [795-20250119] - Collider quadtree resizing handled properly after zone
