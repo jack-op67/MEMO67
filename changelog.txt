@@ -1,4 +1,6 @@
 [changelog]
+  [799-20250317] - No more windows flashbang.
+
   [798-20250313] - .
   [797-20250312] - .
 
