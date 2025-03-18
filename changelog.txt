@@ -1,4 +1,6 @@
 [changelog]
+  [801-20250318] - Hunting allocator bugs...
+
   [800-20250317] - Working on bug with gp allocator.
   [799-20250317] - No more windows flashbang.
 
