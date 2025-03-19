@@ -1,4 +1,6 @@
 [changelog]
+
+  [803-20250319] - New allocator up and running, performance needs improving.
   [802-20250319] - Version before rewriting allocator.
 
   [801-20250318] - Hunting allocator bugs...
