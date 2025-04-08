@@ -1,5 +1,4 @@
 [changelog]
-
   [808-20250408] - Setup on new dev computer. Prepping branch work.
 
   [807-20250321] - Commit before branch.
