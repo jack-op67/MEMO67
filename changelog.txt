@@ -1,4 +1,7 @@
 [changelog]
+  [810-20250411] - Removing unused header includes, full core compile time is
+  around 17 seconds pre-architecture changes.
+
   [809-20250409] - Planning architectures changes. Primary goals as follows
   (subject to change):
    -Enable c code reload.
