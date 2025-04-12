@@ -1,4 +1,9 @@
 [changelog]
+  [811-20250412] - Build.bat changes for building for code reload, the core
+  engine and platform specific code is now compiled to an .exe, the game code is
+  compiled to a .dll and loaded from core entry. (Working with a temporary
+  (empty) prototype to get things up and running).
+
   [810-20250411] - Removing unused header includes, full core compile time is
   around 17 seconds pre-architecture changes.
 
@@ -1803,6 +1808,3 @@ GitHub initial commit started at svn version [050], 010123.
 
 Official start date 021122. - Project started 260922 with svn commit [001],
 however, real work started on 021122 with svn commit [021].
-
---rybchi
-
