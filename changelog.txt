@@ -1,4 +1,6 @@
 [changelog]
+  [813-20250413] - Implementing game_memory and memory arena stuff.
+
   [812-20250412] - Structuring work.
   [811-20250412] - Build.bat changes for building for code reload, the core
   engine and platform specific code is now compiled to an .exe, the game code is
