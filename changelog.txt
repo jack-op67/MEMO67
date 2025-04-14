@@ -1,4 +1,7 @@
 [changelog]
+  [818-20250415] - Shader, Texture, Render, now separated and compiling,
+  untested.
+
   [817-20250414] - Further separation work.
   [816-20250414] - Separated platform specific code for textures.
   [815-20250414] - Input code separated into its own .dll, platform code
