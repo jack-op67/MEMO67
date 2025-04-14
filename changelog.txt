@@ -1,4 +1,5 @@
 [changelog]
+  [816-20250414] - Separated platform specific code for textures.
   [815-20250414] - Input code separated into its own .dll, platform code
   statically links to it, done because engine core and platform are separately
   compiled now, and they both need access to input.
