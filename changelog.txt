@@ -1,4 +1,8 @@
 [changelog]
+  [815-20250414] - Input code separated into its own .dll, platform code
+  statically links to it, done because engine core and platform are separately
+  compiled now, and they both need access to input.
+
   [814-20250413] - Architecture separation work, platform/engine/protos.
   [813-20250413] - Implementing game_memory and memory arena stuff.
 
