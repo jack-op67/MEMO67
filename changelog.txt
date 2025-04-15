@@ -1,4 +1,5 @@
 [changelog]
+  [820-20250415] - Further separation work.
   [819-20250415] - Framebuffer separated.
   [818-20250415] - Shader, Texture, Render, now separated and compiling,
   untested.
