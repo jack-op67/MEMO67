@@ -1,4 +1,7 @@
 [changelog]
+  [823-20250416] - Disregard last commit strategy, I have brute-forced fixing
+  compilier errors. All separate layers are now compiling, time to iron out the
+  runtime bugs.
   [822-20250416] - Restructuring code code to use new separated architecture,
   have been mass-converting existing core, but I think I'm going to end up with
   endless debugging, so I'm going to start converting 1 system at a time and
