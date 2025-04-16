@@ -1,4 +1,9 @@
 [changelog]
+  [822-20250416] - Restructuring code code to use new separated architecture,
+  have been mass-converting existing core, but I think I'm going to end up with
+  endless debugging, so I'm going to start converting 1 system at a time and
+  testing a minimal version as I go. Going to take a while...
+
   [821-20250415] - Bug fixes, about to start updating core so it can compile.
   [820-20250415] - Further separation work.
   [819-20250415] - Framebuffer separated.
