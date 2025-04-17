@@ -1,4 +1,9 @@
 [changelog]
+  [828-20250417] - Bug fixes. Platform primitives no longer keep a copy of their
+  primitive data, it is passed straight through to the (in this case) DX11
+  buffer, game systems that require it will have to hold their own copy of the
+  data (e.g to modify before passing it back to primitive_update_data(), or use
+  in other algorithms, like collision systems, etc).
   [827-20250417] - Forward progress.
   [826-20250417] - Bug fixes.
   [825-20250417] - Further progress, the blank prototype is running.
