@@ -1,4 +1,5 @@
 [changelog]
+  [829-20250417] - Fixed bugs with textures not loading correctly.
   [828-20250417] - Bug fixes. Platform primitives no longer keep a copy of their
   primitive data, it is passed straight through to the (in this case) DX11
   buffer, game systems that require it will have to hold their own copy of the
