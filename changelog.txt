@@ -1,4 +1,5 @@
 [changelog]
+  [827-20250417] - Forward progress.
   [826-20250417] - Bug fixes.
   [825-20250417] - Further progress, the blank prototype is running.
   [824-20250417] - Further progress fixing runtime bugs.
