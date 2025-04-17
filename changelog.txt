@@ -1,4 +1,6 @@
 [changelog]
+  [824-20250417] - Further progress fixing runtime bugs.
+
   [823-20250416] - Disregard last commit strategy, I have brute-forced fixing
   compilier errors. All separate layers are now compiling, time to iron out the
   runtime bugs.
