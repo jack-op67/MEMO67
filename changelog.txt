@@ -1,4 +1,8 @@
 [changelog]
+  [830-20250418] - Branched from branches/flamingo to branches/finch, going to
+  remove the component system as it stands, will implement my 'render_arena'
+  idea in its place.
+
   [829-20250417] - Fixed bugs with textures not loading correctly.
   [828-20250417] - Bug fixes. Platform primitives no longer keep a copy of their
   primitive data, it is passed straight through to the (in this case) DX11
