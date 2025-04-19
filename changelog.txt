@@ -1,4 +1,6 @@
 [changelog]
+  [832-20250419] - More forward progress on render arena stuff.
+
   [831-20250418] - Forward progress on render arena stuff.
   [830-20250418] - Branched from branches/flamingo to branches/finch, going to
   remove the component system as it stands, will implement my 'render_arena'
