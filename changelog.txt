@@ -1,4 +1,5 @@
 [changelog]
+  [834-20250419] - More progess on render_arena.
   [833-20250419] - Progess on render_arena.
   [832-20250419] - More forward progress on render arena stuff.
 
