@@ -1,4 +1,6 @@
 [changelog]
+  [837-20250422] - Render state handling improvements.
+
   [836-20250421] - Progress and bug fixes.
   [835-20250421] - Progress on render_arena stuff.
 
