@@ -1,4 +1,5 @@
 [changelog]
+  [838-20250422] - Bug fixes and forward progress on rendering.
   [837-20250422] - Render state handling improvements.
 
   [836-20250421] - Progress and bug fixes.
