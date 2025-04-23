@@ -1,4 +1,9 @@
 [changelog]
+  [839-20250423] - Improving rendering design. Good progress. Might remove all
+  builtin state including shaders/default deferred framebuffers, leave it
+  entirely for game layer. Started on moving collision handling into its own
+  arena. Bug fixes.
+
   [838-20250422] - Bug fixes and forward progress on rendering.
   [837-20250422] - Render state handling improvements.
 
