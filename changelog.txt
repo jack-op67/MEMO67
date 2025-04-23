@@ -1,4 +1,5 @@
 [changelog]
+  [840-20250423] - Moving more systems to new render architecture. Bug fixes.
   [839-20250423] - Improving rendering design. Good progress. Might remove all
   builtin state including shaders/default deferred framebuffers, leave it
   entirely for game layer. Started on moving collision handling into its own
