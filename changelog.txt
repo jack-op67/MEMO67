@@ -1,4 +1,9 @@
 [changelog]
+  [842-20250424] - Major improvements to handling instances, instance data
+  updating is much more efficient. Json parser and gltf file parser now both use
+  scratch memory. Project cache file generation not only uses scratch memory.
+  Added helper functions to pushing a scratch arena onto an existing memory
+  arena. Few bounds checking improvements to flex allocator.
   [841-20250424] - Mesh instancing working with new render architecture. Other
   bug fixes.
 
