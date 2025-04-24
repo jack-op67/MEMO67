@@ -1,4 +1,7 @@
 [changelog]
+  [841-20250424] - Mesh instancing working with new render architecture. Other
+  bug fixes.
+
   [840-20250423] - Moving more systems to new render architecture. Bug fixes.
   [839-20250423] - Improving rendering design. Good progress. Might remove all
   builtin state including shaders/default deferred framebuffers, leave it
