@@ -1,4 +1,5 @@
 [changelog]
+  [844-20250425] - Hotloading mostly working now.
   [843-20250425] - Bug fixes and progress towards actual code hotloading. Build
   system and entry point have been modified to actually reload the dll, it
   currently works but its pretty buggy and there are graphical glitches - this
