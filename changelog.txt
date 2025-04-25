@@ -1,4 +1,12 @@
 [changelog]
+  [843-20250425] - Bug fixes and progress towards actual code hotloading. Build
+  system and entry point have been modified to actually reload the dll, it
+  currently works but its pretty buggy and there are graphical glitches - this
+  is likely due to bugs with memory concurrency between platform/core/game, the
+  platform _seems_ ok, I've done one memory pass on it, I think the main issues
+  are with core systems that I haven't fully moved over to using memory arena
+  stuff, there are a few global htables hanging around.
+
   [842-20250424] - Major improvements to handling instances, instance data
   updating is much more efficient. Json parser and gltf file parser now both use
   scratch memory. Project cache file generation not only uses scratch memory.
