@@ -1,4 +1,10 @@
 [changelog]
+  [846-20250426] - More forward progess, fixed some edge case bugs in flex
+  allocator. Game code reloading is working now, just got a bug I'm hunting with
+  instance primitives when they get reset when the updated .dll reloads, either
+  a bug with how I'm allocating instance_data, or a bug with the flex allocator
+  itself.
+
   [845-20250425] - Lots of progress on clean separation of memory bounds for
   platform/core/game layers. Quad improvements (handling screen quad and other).
   Added 'resource_data_arena' to replace global htable for loaded resource
