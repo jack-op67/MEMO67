@@ -1,4 +1,9 @@
 [changelog]
+  [847-20250427] - Found the bug, tricky to find. I was using the old
+  vertex_data_byte_size as 'n' in the loop that updates the instance mesh
+  model/normal matrices - so it ended up writing beyond bounds and into the next
+  flex_header - hence I thought the bug was within flex allocator.
+
   [846-20250426] - More forward progess, fixed some edge case bugs in flex
   allocator. Game code reloading is working now, just got a bug I'm hunting with
   instance primitives when they get reset when the updated .dll reloads, either
