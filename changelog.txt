@@ -1,4 +1,6 @@
 [changelog]
+  [850-20250429] - Moved text to new renderer.
+
   [849-20250428] - Further progress on updating ui stuff, basics up and running.
   [848-20250428] - Work on updating sprite ui to use new render stuff.
 
