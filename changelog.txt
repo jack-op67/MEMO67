@@ -1,4 +1,6 @@
 [changelog]
+  [848-20250428] - Work on updating sprite ui to use new render stuff.
+
   [847-20250427] - Found the bug, tricky to find. I was using the old
   vertex_data_byte_size as 'n' in the loop that updates the instance mesh
   model/normal matrices - so it ended up writing beyond bounds and into the next
