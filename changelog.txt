@@ -1,4 +1,5 @@
 [changelog]
+  [849-20250428] - Further progress on updating ui stuff, basics up and running.
   [848-20250428] - Work on updating sprite ui to use new render stuff.
 
   [847-20250427] - Found the bug, tricky to find. I was using the old
