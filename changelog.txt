@@ -1,4 +1,5 @@
 [changelog]
+  [851-20250429] - Text one shots moved to new renderer.
   [850-20250429] - Moved text to new renderer.
 
   [849-20250428] - Further progress on updating ui stuff, basics up and running.
