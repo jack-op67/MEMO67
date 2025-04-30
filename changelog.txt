@@ -1,4 +1,9 @@
 [changelog]
+  [854-20250430] - Various improvements and bugfixes. game_code.dll hot load
+  stuff now loads immediately when file is fully written, no more fixed Sleep.
+  Fixed crash when trying to load new dll when new dll compilation failed, just
+  revert back to previous. Prototyping 1-001.
+
   [853-20250429] - Sprite batcher moved to new renderer.
   [852-20250429] - Optimisations to renderer.
   [851-20250429] - Text one shots moved to new renderer.
