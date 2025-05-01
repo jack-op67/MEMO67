@@ -1,4 +1,6 @@
 [changelog]
+  [857-20250501] - Improvements and bug fixes. Prototyping 1-002.
+
   [856-20250430] - Sub meshes moved to new renderer, mesh + mesh instancing.
   [855-20250430] - Fixed line renderer.
   [854-20250430] - Various improvements and bugfixes. game_code.dll hot load
