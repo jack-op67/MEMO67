@@ -1,4 +1,7 @@
 [changelog]
+  [859-20250501] - Switched to using gltf as primary instead of glb as primary,
+  custom mesh format now saves img path string per sub-mesh, and models will
+  auto-load a texture set populated with those textures on load.
   [858-20250501] - Instancing bug fixes.
   [857-20250501] - Improvements and bug fixes. Prototyping 1-002.
 
