@@ -1,4 +1,6 @@
 [changelog]
+  [860-20250502] - Framebuffer and platform resizing fixed for new architecture.
+
   [859-20250501] - Switched to using gltf as primary instead of glb as primary,
   custom mesh format now saves img path string per sub-mesh, and models will
   auto-load a texture set populated with those textures on load.
