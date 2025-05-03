@@ -1,4 +1,6 @@
 [changelog]
+  [862-20250503] - Basic collision are working with new renderer/entity stuff.
+
   [861-20250502] - Added bounds to resource_arena model load. Started moving
   collision code to new renderer. Prototyping 1-003.
   [860-20250502] - Framebuffer and platform resizing fixed for new architecture.
