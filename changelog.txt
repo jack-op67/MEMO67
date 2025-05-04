@@ -1,4 +1,9 @@
 [changelog]
+  [863-20250504] - Mesh animations working again, greatly improved the model
+  file format as well, rewrote the blender export script. Model read/write code
+  needs a lot of cleanup, and animation use code is currently just a hack, need
+  to write the system for animations with the new renderer later.
+
   [862-20250503] - Basic collision are working with new renderer/entity stuff.
 
   [861-20250502] - Added bounds to resource_arena model load. Started moving
