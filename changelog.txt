@@ -1,4 +1,5 @@
 [changelog]
+  [865-20250505] - Basics of adding locators to model files.
   [864-20250505] - Metaprogram improvements for handling animation data.
 
   [863-20250504] - Mesh animations working again, greatly improved the model
