@@ -1,4 +1,6 @@
 [changelog]
+  [864-20250505] - Metaprogram improvements for handling animation data.
+
   [863-20250504] - Mesh animations working again, greatly improved the model
   file format as well, rewrote the blender export script. Model read/write code
   needs a lot of cleanup, and animation use code is currently just a hack, need
