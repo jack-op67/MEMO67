@@ -1,4 +1,6 @@
 [changelog]
+  [867-20250506] - Moved transform out from component into common.
+
   [866-20250505] - Bug fixes. Simplified line renderer to use a ring buffer.
   [865-20250505] - Basics of adding locators to model files.
   [864-20250505] - Metaprogram improvements for handling animation data.
