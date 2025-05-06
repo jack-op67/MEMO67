@@ -1,6 +1,10 @@
 [changelog]
+  [869-20250506] - Improvements + 'model' struct that contains sub 'model_data'
+  per frame of animation or 1 frame if no animation. This change is done so that
+  I can load locators as transforms and update their position nicely from the
+  model_data with a 'model_update' function.
   [868-20250506] - Transform improvements, parenting/unparenting etc. Child
-  transform are implemented with slist currently, this is slow and will change
+  transforms are implemented with slist currently, this is slow and will change
   later.
   [867-20250506] - Moved transform out from component into common.
 
