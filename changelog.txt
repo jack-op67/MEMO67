@@ -1,4 +1,7 @@
 [changelog]
+  [868-20250506] - Transform improvements, parenting/unparenting etc. Child
+  transform are implemented with slist currently, this is slow and will change
+  later.
   [867-20250506] - Moved transform out from component into common.
 
   [866-20250505] - Bug fixes. Simplified line renderer to use a ring buffer.
