@@ -1,4 +1,6 @@
 [changelog]
+  [872-20250507] - Blender export script now works properly with
+  locators+animated models, correctly outputs sub-mesh data.
   [871-20250507] - Prototyping 1-004.
   [870-20250507] - Further work on locator stuff, basics all working now - all
   locators are loaded properly now as part of 'model', metaprogram generates all
