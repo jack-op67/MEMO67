@@ -1,4 +1,5 @@
 [changelog]
+  [871-20250507] - Prototyping 1-004.
   [870-20250507] - Further work on locator stuff, basics all working now - all
   locators are loaded properly now as part of 'model', metaprogram generates all
   the game_entity id matching stuff. 
