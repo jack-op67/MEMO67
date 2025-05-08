@@ -1,4 +1,11 @@
 [changelog]
+  [873-20250508] - Added another type of locator to model file to specify a
+  direction, I will probably add a 3rd vector position to specify an up vector
+  as well as forward, currently there are just 2 vector positions specified.
+  Locators are now updated as the model changes and transforms are updated
+  accordingly, there are probably some performance wins to be had here, will
+  have to see how it scales, tho unlikely to be a limiting factor.
+
   [872-20250507] - Blender export script now works properly with
   locators+animated models, correctly outputs sub-mesh data.
   [871-20250507] - Prototyping 1-004.
