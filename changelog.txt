@@ -1,4 +1,8 @@
 [changelog]
+
+  [874-20250508] - Fine... I've caved and will move to using quaternions, I'm
+  getting gimbal lock on my transform orientation stuff, was bound to happen
+  sooner or later.
   [873-20250508] - Added another type of locator to model file to specify a
   direction, I will probably add a 3rd vector position to specify an up vector
   as well as forward, currently there are just 2 vector positions specified.
