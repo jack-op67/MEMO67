@@ -1,5 +1,11 @@
 [changelog]
 
+  [876-20250509] - Replaced transform eulers with quaternions. Already added the
+  3rd component to locator in last few updates, forgot to mention. Basically
+  just have 3 locators specifying origin, forward, up vector, then I'm just 
+  constructing the quaternion from that when needed. Fixed a few bugs and
+  removed vstate_global, each view matrix and inv_vp matrix is just stored with
+  each camera now, the projection matrix I'm still keeping as a global for now.
   [875-20250509] - Well that was easier than I thought it would be. Quaternions
   now implemented (basics), and the locator orientation is using them (no gimbal
   lock!), my mathematical understanding of quaternions isn't great, absolute
