@@ -1,5 +1,13 @@
 [changelog]
 
+  [875-20250509] - Well that was easier than I thought it would be. Quaternions
+  now implemented (basics), and the locator orientation is using them (no gimbal
+  lock!), my mathematical understanding of quaternions isn't great, absolute
+  basics to get the implemented (which was fairly straight forward as they are
+  mostly just v4f with some magic maths). Will need to do a deep-dive on them at
+  some point. Will move transforms to use quaternions instead of euler angles
+  next.
+
   [874-20250508] - Fine... I've caved and will move to using quaternions, I'm
   getting gimbal lock on my transform orientation stuff, was bound to happen
   sooner or later.
