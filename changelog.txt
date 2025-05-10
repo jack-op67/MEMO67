@@ -1,5 +1,6 @@
 [changelog]
 
+  [878-20250510] - Added hotkey directly in-engine/game to recompile game layer.
   [877-20250510] - Some work on collision stuff. Bug fixes etc.
 
   [876-20250509] - Replaced transform eulers with quaternions. Already added the
