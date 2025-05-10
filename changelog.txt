@@ -1,5 +1,7 @@
 [changelog]
 
+  [877-20250510] - Some work on collision stuff. Bug fixes etc.
+
   [876-20250509] - Replaced transform eulers with quaternions. Already added the
   3rd component to locator in last few updates, forgot to mention. Basically
   just have 3 locators specifying origin, forward, up vector, then I'm just 
