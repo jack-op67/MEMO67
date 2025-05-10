@@ -1,5 +1,7 @@
 [changelog]
 
+  [879-20250510] - Moved main timing stuff (mark_start/end, enable vsync) into
+  playform layer. Some further work to collision stuff.
   [878-20250510] - Added hotkey directly in-engine/game to recompile game layer.
   [877-20250510] - Some work on collision stuff. Bug fixes etc.
 
