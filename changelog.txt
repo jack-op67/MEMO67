@@ -1,4 +1,6 @@
 [changelog]
+  [882-20250511] - Improvements to model/anim handling.
+  [881-20250511] - Prototyping 1-005.
   [880-20250511] - Prototyping 1-005.
 
   [879-20250510] - Moved main timing stuff (mark_start/end, enable vsync) into
