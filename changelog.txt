@@ -1,4 +1,5 @@
 [changelog]
+  [880-20250511] - Prototyping 1-005.
 
   [879-20250510] - Moved main timing stuff (mark_start/end, enable vsync) into
   playform layer. Some further work to collision stuff.
