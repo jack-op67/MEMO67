@@ -1,4 +1,7 @@
 [changelog]
+  [884-20250513] - Some bug fixes with collision handling, added some more
+  collider_flags for various things.
+
   [883-20250512] - Collision layers enabled again. Added flag to ignore
   collision resolution (notify of hit, but don't resolve position).
   [882-20250512] - Bug fix with locator on model with no animation (1 frame).
