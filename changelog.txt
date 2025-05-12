@@ -1,4 +1,6 @@
 [changelog]
+  [883-20250512] - Collision layers enabled again. Added flag to ignore
+  collision resolution (notify of hit, but don't resolve position).
   [882-20250512] - Bug fix with locator on model with no animation (1 frame).
   Collision stuff has the collider callback working again, The resolve collider
   now has a void* data member, the collided hit and hit_by void* data member is
