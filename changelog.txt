@@ -1,6 +1,12 @@
 [changelog]
-  [882-20250511] - Improvements to model/anim handling.
-  [881-20250511] - Prototyping 1-005.
+  [882-20250512] - Bug fix with locator on model with no animation (1 frame).
+  Collision stuff has the collider callback working again, The resolve collider
+  now has a void* data member, the collided hit and hit_by void* data member is
+  passed to the callback, currently just passing (void*)game_entity* to the
+  collison system, but could give it any arbitrary data for callbacks.
+  Prototyping 1-006.
+
+  [881-20250511] - Improvements to model/anim handling.
   [880-20250511] - Prototyping 1-005.
 
   [879-20250510] - Moved main timing stuff (mark_start/end, enable vsync) into
