@@ -1,4 +1,8 @@
 [changelog]
+  [887-20250513] - Bugfix: was reading mesh_header per-submesh rather than
+  per-model. Fixed a bug with collider quattree indexing. Wrote a new blender
+  python script to export a full scene of static entities to an engine readable
+  intermediate file (need to write the final binary version for it later).
   [886-20250513] - Bugfix: metaprogram entity gen was duplicating first frame.
   [885-20250513] - Prototyping 1-007.
   [884-20250513] - Some bug fixes with collision handling, added some more
