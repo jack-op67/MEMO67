@@ -1,4 +1,6 @@
 [changelog]
+  [888-20250514] - Terrain colliders back in. Bug fixes. Prototyping 1-008.
+
   [887-20250513] - Bugfix: was reading mesh_header per-submesh rather than
   per-model. Fixed a bug with collider quattree indexing. Wrote a new blender
   python script to export a full scene of static entities to an engine readable
