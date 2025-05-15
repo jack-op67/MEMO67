@@ -1,4 +1,8 @@
 [changelog]
+  [890-20250515] - Bug fix with collider quadtree lookup, quadtree now has 0,0
+  as the centre, not the bottom left. Standalong box colliders working (i.e no
+  entity attached). Improvements to blender export scripts. Prototyping 1-009.
+
   [889-20250514] - Terrain collision now resolves with steepness considerations.
   [888-20250514] - Terrain colliders back in. Bug fixes. Prototyping 1-008.
 
