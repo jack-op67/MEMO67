@@ -1,4 +1,6 @@
 [changelog]
+  [892-20250516] - Prototyping 1-010.
+
   [891-20250515] - Added locators to blender static scene export stuff.
   [890-20250515] - Bug fix with collider quadtree lookup, quadtree now has 0,0
   as the centre, not the bottom left. Standalong box colliders working (i.e no
