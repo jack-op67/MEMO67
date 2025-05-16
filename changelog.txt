@@ -1,4 +1,5 @@
 [changelog]
+  [893-20250516] - Terrain colliders can now be non square.
   [892-20250516] - Prototyping 1-010.
 
   [891-20250515] - Added locators to blender static scene export stuff.
