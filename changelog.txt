@@ -1,4 +1,5 @@
 [changelog]
+  [896-20250517] - Some bug fixes for ui/text stuff.
   [895-20250517] - Terrain get Y working again.
   [894-20250517] - Better support for non-square terrain colliders.
 
