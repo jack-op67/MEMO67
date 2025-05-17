@@ -1,4 +1,5 @@
 [changelog]
+  [895-20250517] - Terrain get Y working again.
   [894-20250517] - Better support for non-square terrain colliders.
 
   [893-20250516] - Terrain colliders can now be non square.
