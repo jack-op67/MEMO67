@@ -1,4 +1,6 @@
 [changelog]
+  [894-20250517] - Better support for non-square terrain colliders.
+
   [893-20250516] - Terrain colliders can now be non square.
   [892-20250516] - Prototyping 1-010.
 
