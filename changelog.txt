@@ -1,4 +1,6 @@
 [changelog]
+  [899-20250518] - Pathfinding moved to new collision stuff. Optimised it as
+  well.
   [898-20250518] - AABB colliders now get refit to rotation. Prototyping 1-012.
   [897-20250518] - Prototyping 1-011.
 
