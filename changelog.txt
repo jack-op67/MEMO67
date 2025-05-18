@@ -1,4 +1,5 @@
 [changelog]
+  [898-20250518] - AABB colliders now get refit to rotation. Prototyping 1-012.
   [897-20250518] - Prototyping 1-011.
 
   [896-20250517] - Some bug fixes for ui/text stuff.
