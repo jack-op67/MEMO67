@@ -1,4 +1,6 @@
 [changelog]
+  [902-20250521] - Some changes to collider origins.
+
   [901-20250520] - Prototyping 1-013.
 
   [900-20250519] - Shadows moved to new renderer.
