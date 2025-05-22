@@ -1,4 +1,6 @@
 [changelog]
+  [903-20250522] - Origin bug fixes.
+
   [902-20250521] - Some changes to collider origins.
 
   [901-20250520] - Prototyping 1-013.
