@@ -1,4 +1,6 @@
 [changelog]
+  [907-20250525] - Animated models can be set to not loop now. Prototyping 1-017.
+
   [906-20250524] - Prototyping 1-016.
   [905-20250524] - Prototyping 1-015.
 
