@@ -1,4 +1,6 @@
 [changelog]
+  [911-20250701] - Fixed memory leak, bug hunting for resource unload.
+
   [910-20250630] - Working on resource unloading.
 
   [909-20250617] - Bug hunting.
