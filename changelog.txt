@@ -1,4 +1,6 @@
 [changelog]
+  [912-20250702] - Fixed the main bug with model resource unload.
+
   [911-20250701] - Fixed memory leak, bug hunting for resource unload.
 
   [910-20250630] - Working on resource unloading.
