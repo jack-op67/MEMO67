@@ -1,4 +1,7 @@
 [changelog]
+  [915-20250716] - Fixed bug with text primitives dx11 .ByteWidth, not sure how
+  that bug has survived so long.
+
   [914-20250715] - Fixed compile errors for clang and gnu.
 
   [913-20250714] - Prototyping 1-019.
