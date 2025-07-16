@@ -1,4 +1,6 @@
 [changelog]
+  [916-20250717] - Prototyping 1-020.
+
   [915-20250716] - Fixed bug with text primitives dx11 .ByteWidth, not sure how
   that bug has survived so long.
 
