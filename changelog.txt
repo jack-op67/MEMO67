@@ -1,4 +1,6 @@
 [changelog]
+  [917-20250717] - Bug fixes with mesh unload/load, need to scope the memory
+  around that system much tighter.
   [916-20250717] - Prototyping 1-020.
 
   [915-20250716] - Fixed bug with text primitives dx11 .ByteWidth, not sure how
