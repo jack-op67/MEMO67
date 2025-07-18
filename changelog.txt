@@ -1,4 +1,6 @@
 [changelog]
+  [921-20250719] - Cleanup / style formatting.
+
   [920-20250718] - Renaming new stuff now that legacy code is gone.
   [919-20250718] - Removing legacy code part-2, deleted a lot of code.
   [918-20250718] - Removing legacy code part-1.
