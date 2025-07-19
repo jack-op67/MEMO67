@@ -1,4 +1,5 @@
 [changelog]
+  [922-20250719] - Cleanup and some work on memory handling.
   [921-20250719] - Cleanup / style formatting.
 
   [920-20250718] - Renaming new stuff now that legacy code is gone.
