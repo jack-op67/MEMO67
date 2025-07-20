@@ -1,4 +1,5 @@
 [changelog]
+  [924-20250720] - Further work on the primitive changes.
   [923-20250720] - Working on some architecture improvements for primitives, so
   that I can throw out an entire memory_arena and all resources are neatly
   removed when the memory_arena is zeroed.
