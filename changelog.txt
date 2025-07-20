@@ -1,5 +1,9 @@
 [changelog]
-  [922-20250719] - Cleanup and some work on memory handling.
+  [923-20250720] - Working on some architecture improvements for primitives, so
+  that I can throw out an entire memory_arena and all resources are neatly
+  removed when the memory_arena is zeroed.
+
+  [921-20250719] - Cleanup / style formatting.
   [921-20250719] - Cleanup / style formatting.
 
   [920-20250718] - Renaming new stuff now that legacy code is gone.
