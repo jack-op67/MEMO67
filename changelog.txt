@@ -1,4 +1,6 @@
 [changelog]
+  [926-20250721] - Prototyping 1-021.
+
   [925-20250720] - More primitive/resource_arena/render_arena work.
   [924-20250720] - Further work on the primitive changes.
   [923-20250720] - Working on some architecture improvements for primitives, so
