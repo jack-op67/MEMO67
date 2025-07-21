@@ -1,5 +1,5 @@
 [changelog]
-  [927-20250722] - _resource_data_arena_ now uses a separate memory_arena that
+  [927-20250721] - _resource_data_arena_ now uses a separate memory_arena that
     is around for the lifetime of the app, can add additional
     _resource_data_arena_ later if I need to unload raw resources.
     _resource_arena_ now only has model_data stored, bounds and mesh_datas are
