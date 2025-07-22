@@ -1,9 +1,12 @@
 [changelog]
+  [928-20250722] - Bugfixes and further work on memory/arena stuff, propagating
+  that stuff thru prototype1.
+
   [927-20250721] - _resource_data_arena_ now uses a separate memory_arena that
     is around for the lifetime of the app, can add additional
     _resource_data_arena_ later if I need to unload raw resources.
     _resource_arena_ now only has model_data stored, bounds and mesh_datas are
-    just stored on the model_data - they are on a fixed-size array with parellel
+    just stored on the model_data - they are on a fixed-size array with parallel
     hash indices as well, max size is specified up front, this is to avoid
     htable resizes, will see how it goes.
   [926-20250721] - Prototyping 1-021.
