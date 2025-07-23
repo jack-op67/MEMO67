@@ -1,4 +1,7 @@
 [changelog]
+  [930-20250723] - Removed _model_id stuff from primitive headers, nothing is
+  using it anymore.
+
   [929-20250722] - Some bugfixes, memory handling in render primitives is more
   robust now.
   [928-20250722] - Bugfixes and further work on memory/arena stuff, propagating
