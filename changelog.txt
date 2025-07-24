@@ -1,4 +1,8 @@
 [changelog]
+  [931-20250724] - DLL reloading now handles primitive_arena reset properly,
+  this new primitive arena stuff make is a lot cleaner. Also removed dynamic
+  array from light stuff, its all on the core memory arena now as well.
+
   [930-20250723] - Removed _model_id stuff from primitive headers, nothing is
   using it anymore.
 
