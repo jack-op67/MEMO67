@@ -1,4 +1,6 @@
 [changelog]
+  [933-20250726] - Minor bug fixes.
+
   [932-20250724] - Texture handling updated to pass memory arena stuff.
   [931-20250724] - DLL reloading now handles primitive_arena reset properly,
   this new primitive arena stuff make is a lot cleaner. Also removed dynamic
