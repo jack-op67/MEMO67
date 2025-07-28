@@ -1,4 +1,6 @@
 [changelog]
+  [935-20250728] - Terrain collision testing at low poly density.
+
   [934-20250727] - Shadow bug fix.
 
   [933-20250726] - Minor bug fixes.
