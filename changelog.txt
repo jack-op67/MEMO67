@@ -1,4 +1,6 @@
 [changelog]
+  [936-20250728] - Added arbitrary triangle drawing draw_triangle(p0, p1, p2),
+  for debug stuff.
   [935-20250728] - Terrain collision testing at low poly density.
 
   [934-20250727] - Shadow bug fix.
