@@ -1,4 +1,8 @@
 [changelog]
+  [940-20250729] - removed draw_triangle() backface flag, I wanted to draw the
+  backface a different colour for debug and didn't want any shader api stuff to
+  be in the primitive render code. So now I'm just calling the function twice
+  and changing the cbuf between calls.
   [939-20250729] - Improvements and bugfixes to line renderer, the ring buffer
   was getting stamped out too much before.
   [938-20250729] - Good progress on triangle soup collision stuff.
