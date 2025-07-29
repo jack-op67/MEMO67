@@ -1,4 +1,6 @@
 [changelog]
+  [939-20250729] - Improvements and bugfixes to line renderer, the ring buffer
+  was getting stamped out too much before.
   [938-20250729] - Good progress on triangle soup collision stuff.
 
   [937-20250728] - Basic triangle soup collision stuff.
