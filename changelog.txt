@@ -1,4 +1,6 @@
 [changelog]
+  [938-20250729] - Good progress on triangle soup collision stuff.
+
   [937-20250728] - Basic triangle soup collision stuff.
   [936-20250728] - Added arbitrary triangle drawing draw_triangle(p0, p1, p2),
   for debug stuff.
