@@ -1,4 +1,6 @@
 [changelog]
+  [942-20250730] - More collision progress.
+
   [941-20250729] - More collision system work.
   [940-20250729] - removed draw_triangle() backface flag, I wanted to draw the
   backface a different colour for debug and didn't want any shader api stuff to
