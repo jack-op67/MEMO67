@@ -1,4 +1,5 @@
 [changelog]
+  [944-20250731] - Added basics of octtree for triangle soup stuff.
   [943-20250731] - The triangle soup resolution stuff is now working pretty
   well, I'm converting all primitive colliders that need to be tested on it to
   approximate ellipsoids (for speed and so I don't have to implement SAT and
