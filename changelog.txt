@@ -1,4 +1,9 @@
 [changelog]
+  [943-20250731] - The triangle soup resolution stuff is now working pretty
+  well, I'm converting all primitive colliders that need to be tested on it to
+  approximate ellipsoids (for speed and so I don't have to implement SAT and
+  other algorithms + approximate is plenty for my use case).
+
   [942-20250730] - More collision progress.
 
   [941-20250729] - More collision system work.
