@@ -1,4 +1,5 @@
 [changelog]
+  [946-20250731] - Added some optimisations for adding triangles to soup.
   [945-20250731] - Triangles are added to octtree now via their aabb
   approximation.
   [944-20250731] - Added basics of octtree for triangle soup stuff.
