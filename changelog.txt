@@ -1,4 +1,5 @@
 [changelog]
+  [947-20250731] - Few bugfixes.
   [946-20250731] - Added some optimisations for adding triangles to soup.
   [945-20250731] - Triangles are added to octtree now via their aabb
   approximation.
