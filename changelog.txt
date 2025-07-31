@@ -1,4 +1,9 @@
 [changelog]
+  [948-20250801] - Improvements to mesh bounds, improvements to triangle soup,
+  octtree cells now use indexes instead of storing the triangle directly, I've
+  capped it with 2^16 max triangles for now, don't think I will need more,
+  working pretty well.
+
   [947-20250731] - Few bugfixes.
   [946-20250731] - Added some optimisations for adding triangles to soup.
   [945-20250731] - Triangles are added to octtree now via their aabb
@@ -12,7 +17,7 @@
   [942-20250730] - More collision progress.
 
   [941-20250729] - More collision system work.
-  [940-20250729] - removed draw_triangle() backface flag, I wanted to draw the
+  [940-20250729] - Removed draw_triangle() backface flag, I wanted to draw the
   backface a different colour for debug and didn't want any shader api stuff to
   be in the primitive render code. So now I'm just calling the function twice
   and changing the cbuf between calls.
