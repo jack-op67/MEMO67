@@ -1,4 +1,6 @@
 [changelog]
+  [949-20250804] - Added surface types for tri soup, friction, bouncy, decay.
+
   [948-20250801] - Improvements to mesh bounds, improvements to triangle soup,
   octtree cells now use indexes instead of storing the triangle directly, I've
   capped it with 2^16 max triangles for now, don't think I will need more,
