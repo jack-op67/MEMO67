@@ -1,4 +1,6 @@
 [changelog]
+  [950-20250805] - Collider stuff.
+
   [949-20250804] - Added surface types for tri soup, friction, bouncy, decay.
 
   [948-20250801] - Improvements to mesh bounds, improvements to triangle soup,
