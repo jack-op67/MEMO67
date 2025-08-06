@@ -1,4 +1,6 @@
 [changelog]
+  [951-20250806] - More collider stuff.
+
   [950-20250805] - Collider stuff.
 
   [949-20250804] - Added surface types for tri soup, friction, bouncy, decay.
