@@ -1,4 +1,6 @@
 [changelog]
+  [953-20250808] - Improvements to transforms.
+
   [952-20250807] - Fixed some bugs with locator handling.
 
   [951-20250806] - More collider stuff.
