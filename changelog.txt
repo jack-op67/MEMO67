@@ -1,4 +1,7 @@
 [changelog]
+  [955-20250809] - Added dynamic set of triangle_soup stuff, it is wiped every
+  update. Prototyping 1-023.
+
   [954-20250808] - Prototyping 1-022.
   [953-20250808] - Improvements to transforms.
 
