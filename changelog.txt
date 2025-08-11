@@ -1,4 +1,8 @@
 [changelog]
+  [958-20250811] - Been bug hunting for hours and hours... on a stupid stale
+  matrix bug. Anyway, fixed bug with ghosted rendering after fixed time step
+  update. Now back to actual collision work.
+
   [957-20250810] - Collision work....
   [956-20250810] - Fixed time step collision work.
 
