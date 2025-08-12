@@ -1,4 +1,6 @@
 [changelog]
+  [959-20250812] - Fixed time step progress. Stuck on one stupid bug.
+
   [958-20250811] - Been bug hunting for hours and hours... on a stupid stale
   matrix bug. Anyway, fixed bug with ghosted rendering after fixed time step
   update. Now back to actual collision work.
