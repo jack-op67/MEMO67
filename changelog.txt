@@ -1,4 +1,6 @@
 [changelog]
+  [960-20250901] - Collision work..
+
   [959-20250812] - Fixed time step progress. Stuck on one stupid bug.
 
   [958-20250811] - Been bug hunting for hours and hours... on a stupid stale
