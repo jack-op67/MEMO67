@@ -1,4 +1,6 @@
 [changelog]
+  [963-20250923] - Found possible solution for collision bug.
+
   [962-20250922] - Collision bug hunting.. again.
 
   [961-20250908] - Cleanup.
