@@ -1,4 +1,6 @@
 [changelog]
+  [966-20250926] - Collision epsilon values are handled more cleanly.
+
   [965-20250924] - Some cleanup.
 
   [964-20250923] - Progress on implementing the collision solution - it has
