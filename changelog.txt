@@ -1,4 +1,6 @@
 [changelog]
+  [968-20250927] - Added basic sliding for incline thresholds for collision
+  trisoup.
   [967-20250927] - Collision work.
 
   [966-20250926] - Collision epsilon values are handled more cleanly.
