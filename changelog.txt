@@ -1,4 +1,8 @@
 [changelog]
+  [974-20250929] - Fixed some bugs with gltf material loading, and a bug with
+  setting the submesh shader ids. Also added 'ignore_list' to
+  _files_in_directory()_ to ignore specified subdirectories.
+
   [973-20250928] - Blender exporter updated, the name is just the model name
   now, and it gets translated when the level is loaded (for now, I will cache
   this translation stuff later).
