@@ -1,4 +1,6 @@
 [changelog]
+  [972-20250928] - New entity database lookup stuff is basically working now,
+  just need to update Blender level exporter stuff.
   [971-20250928] - More work on entity database stuff, new meta programs are
   almost there. Going to write the lookup functions now.
   [970-20250928] - Working on new way to store the entity id/path/anim details,
