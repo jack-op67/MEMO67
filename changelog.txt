@@ -1,4 +1,6 @@
 [changelog]
+  [969-20250928] - Fixed some bugs with model texture path.
+
   [968-20250927] - Added basic sliding for incline thresholds for collision
   trisoup.
   [967-20250927] - Collision work.
