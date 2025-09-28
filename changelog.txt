@@ -1,4 +1,7 @@
 [changelog]
+  [973-20250928] - Blender exporter updated, the name is just the model name
+  now, and it gets translated when the level is loaded (for now, I will cache
+  this translation stuff later).
   [972-20250928] - New entity database lookup stuff is basically working now,
   just need to update Blender level exporter stuff.
   [971-20250928] - More work on entity database stuff, new meta programs are
