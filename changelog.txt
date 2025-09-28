@@ -1,4 +1,6 @@
 [changelog]
+  [970-20250928] - Working on new way to store the entity id/path/anim details,
+  my previous version was hitting some scaling issues with macro limits.
   [969-20250928] - Fixed some bugs with model texture path.
 
   [968-20250927] - Added basic sliding for incline thresholds for collision
