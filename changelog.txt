@@ -1,4 +1,5 @@
 [changelog]
+  [978-20250930] - Prototyping 1-024.
   [977-20250930] - File handling stuff temporarily moved to common directory.
   [976-20250930] - Updates to Blender exporter.
 
