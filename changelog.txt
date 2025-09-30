@@ -1,4 +1,5 @@
 [changelog]
+  [980-20250930] - Optimised the hashes.txt read/write for project resources.
   [979-20250930] - Prototyping 1-025, adding runtime level format, regens if a
   level source file has been changed.
   [978-20250930] - Prototyping 1-024.
