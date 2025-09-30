@@ -1,4 +1,6 @@
 [changelog]
+  [979-20250930] - Prototyping 1-025, adding runtime level format, regens if a
+  level source file has been changed.
   [978-20250930] - Prototyping 1-024.
   [977-20250930] - File handling stuff temporarily moved to common directory.
   [976-20250930] - Updates to Blender exporter.
