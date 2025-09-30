@@ -1,4 +1,5 @@
 [changelog]
+  [977-20250930] - File handling stuff temporarily moved to common directory.
   [976-20250930] - Updates to Blender exporter.
 
   [975-20250929] - Added a new debug camera view. Fixed some bugs with
