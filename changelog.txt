@@ -1,4 +1,6 @@
 [changelog]
+  [976-20250930] - Updates to Blender exporter.
+
   [975-20250929] - Added a new debug camera view. Fixed some bugs with
   collision, working on basic frustum culling for game entities.
   [974-20250929] - Fixed some bugs with gltf material loading, and a bug with
