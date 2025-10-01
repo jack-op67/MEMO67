@@ -1,4 +1,6 @@
 [changelog]
+  [982-20251001] - Debugging ui rendering, might need to add some extra
+  functionality here.
   [981-20251001] - Testing some larger test levels. Some improvements to
   triangle_soup stuff.
 
