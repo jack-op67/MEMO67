@@ -1,4 +1,6 @@
 [changelog]
+  [986-20251004] - Moved some timing stuff that is platform specific to the
+  platform layer.
   [985-20251004] - Basics of terminal are working, with core callbacks as well
   as game layer callbacks. Added a few improvements to key handling.
 
