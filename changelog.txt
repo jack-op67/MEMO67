@@ -1,4 +1,6 @@
 [changelog]
+  [988-20251005] - Fixed resize callbacks.
+
   [987-20251004] - Some improvements to render arena batch draw.
   [986-20251004] - Moved some timing stuff that is platform specific to the
   platform layer.
