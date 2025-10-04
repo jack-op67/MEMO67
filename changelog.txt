@@ -1,4 +1,7 @@
 [changelog]
+  [985-20251004] - Basics of terminal are working, with core callbacks as well
+  as game layer callbacks. Added a few improvements to key handling.
+
   [984-20251003] - Started to implement core terminal for text commands.
 
   [983-20251002] - Working on ui rendering stuff.
