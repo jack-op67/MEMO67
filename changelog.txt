@@ -1,4 +1,5 @@
 [changelog]
+  [987-20251004] - Some improvements to render arena batch draw.
   [986-20251004] - Moved some timing stuff that is platform specific to the
   platform layer.
   [985-20251004] - Basics of terminal are working, with core callbacks as well
