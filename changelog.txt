@@ -1,4 +1,6 @@
 [changelog]
+  [989-20251006] - Bug hunting some UI stuff.
+
   [988-20251005] - Fixed resize callbacks.
 
   [987-20251004] - Some improvements to render arena batch draw.
