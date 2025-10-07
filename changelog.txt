@@ -1,4 +1,7 @@
 [changelog]
+  [990-20251007] - .jpg files now supported for conversion in project resources.
+  Some debug stuff, building a dev scene to properly test a few things.
+
   [989-20251006] - Bug hunting some UI stuff.
 
   [988-20251005] - Fixed resize callbacks.
