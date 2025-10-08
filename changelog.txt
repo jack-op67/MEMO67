@@ -1,4 +1,7 @@
 [changelog]
+  [994-20251008] - Upgrading the Blender level exporter, the level text to
+  binary converter, and the level reader to a better format that will let me
+  specify the shader and various render flags directly in Blender.
   [993-20251008] - Skybox reflections in composite.
   [992-20251008] - Fixed some edge cases with binding of texture_sets.
   [991-20251008] - Reimplemented skybox to work with render arenas etc.
