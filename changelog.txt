@@ -1,4 +1,6 @@
 [changelog]
+  [991-20251008] - Reimplemented skybox to work with render arenas etc.
+
   [990-20251007] - .jpg files now supported for conversion in project resources.
   Some debug stuff, building a dev scene to properly test a few things.
 
