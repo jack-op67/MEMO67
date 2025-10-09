@@ -1,4 +1,7 @@
 [changelog]
+  [995-20251009] - New level format stuff is mostly working, just got to implement the
+  different flags.
+
   [994-20251008] - Upgrading the Blender level exporter, the level text to
   binary converter, and the level reader to a better format that will let me
   specify the shader and various render flags directly in Blender.
