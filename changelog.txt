@@ -1,4 +1,5 @@
 [changelog]
+  [997-20251009] - Skybox can be set from prototypes now, not just core.
   [996-20251009] - More work on level export/import stuff, pretty much working
   as it was before now, just need to hook up the materials.
   [995-20251009] - New level format stuff is mostly working, just got to implement the
