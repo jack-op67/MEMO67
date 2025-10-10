@@ -1,4 +1,5 @@
 [changelog]
+  [1000-20251010] - Line renderer no longer gets clipped by camera far_clip.
   [999-20251010] - Fixed bug where skybox was getting clipped when the camera
   far_clip is smaller than the skybox scale.
   [998-20251010] - Cleaning up camera maths, projection stuff,
