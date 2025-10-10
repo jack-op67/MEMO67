@@ -1,4 +1,10 @@
 [changelog]
+  [998-20251010] - Cleaning up camera maths, projection stuff,
+  standardising, was using some non-standard camera maths which has become
+  apparent when trying to match some scenes to Blender's fov, though my maths
+  seems to have been correct even before these changes, issues is probably more
+  to do with Blender trying to model real-world cameras/sensors.
+
   [997-20251009] - Skybox can be set from prototypes now, not just core.
   [996-20251009] - More work on level export/import stuff, pretty much working
   as it was before now, just need to hook up the materials.
