@@ -1,4 +1,6 @@
 [changelog]
+  [999-20251010] - Fixed bug where skybox was getting clipped when the camera
+  far_clip is smaller than the skybox scale.
   [998-20251010] - Cleaning up camera maths, projection stuff,
   standardising, was using some non-standard camera maths which has become
   apparent when trying to match some scenes to Blender's fov, though my maths
