@@ -1,4 +1,6 @@
 [changelog]
+  [1004-20251011] - Work on bloom stuff, added specular to directional light
+  shader.
   [1003-20251011] - Implemented bloom, extended the frameset a little bit for
   it.
 
