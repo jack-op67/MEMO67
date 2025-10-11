@@ -1,4 +1,7 @@
 [changelog]
+  [1003-20251011] - Implemented bloom, extended the frameset a little bit for
+  it.
+
   [1002-20251010] - Fixed some really old matrix order bugs (lol).
   [1001-20251010] - Fixed shadow mapping maths after changes to matrix/maths
   stuff.
