@@ -1,4 +1,5 @@
 [changelog]
+  [1008-20251012] - Fixed a few bugs with SSAO, looks pretty accurate now.
   [1007-20251012] - Some SSAO improvements.
   [1006-20251012] - SSAO working! Needs some work and framebuffer setup is kinda
   hacked in right now so will need to clean that up, but it's working.
