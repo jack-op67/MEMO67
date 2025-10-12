@@ -1,4 +1,7 @@
 [changelog]
+  [1006-20251012] - SSAO working! Needs some work and framebuffer setup is kinda
+  hacked in right now so will need to clean that up, but it's working.
+
   [1005-20251011] - Working on implementing SSAO, old school Crisis style.
   [1004-20251011] - Work on bloom stuff, added specular to directional light
   shader.
