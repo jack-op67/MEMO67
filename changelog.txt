@@ -1,4 +1,6 @@
 [changelog]
+  [1010-20251013] - Work on test level, shadow mapping ortho box has a better
+  fit now, but not happy with it, will rewrite it later.
   [1009-20251013] - Working on a better fit for shadow mapping ortho box.
 
   [1008-20251012] - Fixed a few bugs with SSAO, looks pretty accurate now.
