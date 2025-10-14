@@ -1,4 +1,6 @@
 [changelog]
+  [1011-20251014] - Working on documenting maths changes etc.
+
   [1010-20251013] - Work on test level, shadow mapping ortho box has a better
   fit now, but not happy with it, will rewrite it later.
   [1009-20251013] - Working on a better fit for shadow mapping ortho box.
