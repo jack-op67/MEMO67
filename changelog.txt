@@ -1,4 +1,8 @@
 [changelog]
+  [1012-20251015] - Documenting some maths implementation details. Added some
+  better shader debugging features. Added a new shared HLSL include for using
+  #pragma pack_matrix(row_major).
+
   [1011-20251014] - Working on documenting maths changes etc.
 
   [1010-20251013] - Work on test level, shadow mapping ortho box has a better
