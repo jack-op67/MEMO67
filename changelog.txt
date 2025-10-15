@@ -1,4 +1,7 @@
 [changelog]
+  [1013-20251015] - Improvements to hotloading, all resources are now reloaded
+  as part of hot-recompile, and I've added a separate hotkey to just reload the
+  resources without recompiling.
   [1012-20251015] - Documenting some maths implementation details. Added some
   better shader debugging features. Added a new shared HLSL include for using
   #pragma pack_matrix(row_major).
