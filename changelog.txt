@@ -1,4 +1,8 @@
 [changelog]
+  [1015-20251016] - Fixed bug with framebuffer resize registering not bounds
+  checking properly, causing a nasty bug overwriting memory in sprite batcher
+  update calls.
+
   [1014-20251015] - Some bug fixes for hotloading.
   [1013-20251015] - Improvements to hotloading, all resources are now reloaded
   as part of hot-recompile, and I've added a separate hotkey to just reload the
