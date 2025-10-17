@@ -1,4 +1,7 @@
 [changelog]
+  [1016-20251017] - Updated clang build, will probably remove cmake entirely,
+  just using build.bat. Few bug fixes.
+
   [1015-20251016] - Fixed bug with framebuffer resize registering not bounds
   checking properly, causing a nasty bug overwriting memory in sprite batcher
   update calls.
