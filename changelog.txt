@@ -1,4 +1,6 @@
 [changelog]
+  [1019-20251017] - Reimplemented old focus gain/lose callbacks for new
+  multi-dll architecture.
   [1018-20251017] - New build.bat pretty much good to go.
   [1017-20251017] - Some more build.bat changes. zlib is now just builit to
   static library and linked against core.
