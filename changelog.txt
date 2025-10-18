@@ -1,4 +1,6 @@
 [changelog]
+  [1020-20251018] - Some hotloading improvements and bug fixes.
+
   [1019-20251017] - Reimplemented old focus gain/lose callbacks for new
   multi-dll architecture.
   [1018-20251017] - New build.bat pretty much good to go.
