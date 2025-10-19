@@ -1,4 +1,6 @@
 [changelog]
+  [1022-20251019] - Fixed alt keys not getting handled.
+
   [1021-20251018] - Level files only generated if there is a level file change,
   fixed bug with viewport/resizing after reload.
   [1020-20251018] - Some hotloading improvements and bug fixes.
