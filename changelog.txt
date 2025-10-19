@@ -1,4 +1,5 @@
 [changelog]
+  [1023-20251019] - Lots of shader and art testing.
   [1022-20251019] - Fixed alt keys not getting handled.
 
   [1021-20251018] - Level files only generated if there is a level file change,
