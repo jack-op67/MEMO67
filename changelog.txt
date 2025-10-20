@@ -1,4 +1,9 @@
 [changelog]
+  [1026-20251021] - Moved bloom and ssao passes to the engine core, game layer
+  no longer sets it; I will add render settings to control this stuff later.
+  Added better ping-pong for framebuffer stuff. Implemented two-pass
+  fast-gaussian blur. Some more artwork testing.
+
   [1025-20251020] - Instanced meshes now drawing shadows properly.
   [1024-20251020] - Fixed instancing, it broke after changes to resource arena
   stuff.
