@@ -1,4 +1,7 @@
 [changelog]
+  [1024-20251020] - Fixed instancing, it broke after changes to resource arena
+  stuff.
+
   [1023-20251019] - Lots of shader and art testing.
   [1022-20251019] - Fixed alt keys not getting handled.
 
