@@ -1,4 +1,5 @@
 [changelog]
+  [1025-20251020] - Instanced meshes now drawing shadows properly.
   [1024-20251020] - Fixed instancing, it broke after changes to resource arena
   stuff.
 
