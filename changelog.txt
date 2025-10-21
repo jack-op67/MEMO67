@@ -1,4 +1,6 @@
 [changelog]
+  [1028-20251021] - Added some temporary SSAO cbuf settings for testing. Did
+  some obvious optimisations around frameset/ssao/bloom/blur.
   [1027-20251021] - Added bloom settings cbuf and gaussian blur settings cbuf.
   [1026-20251021] - Moved bloom and ssao passes to the engine core, game layer
   no longer sets it; I will add render settings to control this stuff later.
