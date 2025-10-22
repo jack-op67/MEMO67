@@ -1,4 +1,10 @@
 [changelog]
+  [1029-20251022] - Prototyping work. Working on implementing
+  static/dynamic/static_background render arenas, previously everything was
+  dynamic, static/dynamic now working but I may need to adjust how I'm handling
+  coupling resource arenas and render arenas, the resource and render arena
+  primitive_arena_id currently must match before rendering.
+
   [1028-20251021] - Added some temporary SSAO cbuf settings for testing. Did
   some obvious optimisations around frameset/ssao/bloom/blur.
   [1027-20251021] - Added bloom settings cbuf and gaussian blur settings cbuf.
