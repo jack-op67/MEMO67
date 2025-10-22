@@ -1,5 +1,9 @@
 [changelog]
-
+  [1031-20251022] - game_entities that are added to static_background
+  render_arena now get their shader switched out to a absolute minimal colour
+  only shader, this is so they don't get lighting, SSAO, etc, I think it looks
+  better for backgrounds to be flat - I will add some settings to
+  brighten/darken the backgrounds depending on level later.
   [1030-20251022] - Primitive_arenas are now created outside of render_arenas,
   and passed as parameter on initialise to render_arenas as well as resource
   areans - this enables having one primitive_arena shared between multiple
