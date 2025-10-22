@@ -1,4 +1,9 @@
 [changelog]
+
+  [1030-20251022] - Primitive_arenas are now created outside of render_arenas,
+  and passed as parameter on initialise to render_arenas as well as resource
+  areans - this enables having one primitive_arena shared between multiple
+  render_arenas/resource arenas.
   [1029-20251022] - Prototyping work. Working on implementing
   static/dynamic/static_background render arenas, previously everything was
   dynamic, static/dynamic now working but I may need to adjust how I'm handling
