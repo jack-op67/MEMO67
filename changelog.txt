@@ -1,4 +1,7 @@
 [changelog]
+  [1035-20251023] - Internal shader compiling uses memory arenas instead of flex
+  allocator now, few bug fixes around primitive_arena setup, some improvements
+  to debug_hud.
   [1034-20251023] - Improved some debug_hud.cpp stuff, enabled render stats
   again.
   [1033-20251023] - Fixed a few bugs with memory_arena usage after recent
