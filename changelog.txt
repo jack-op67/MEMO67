@@ -1,4 +1,6 @@
 [changelog]
+  [1034-20251023] - Improved some debug_hud.cpp stuff, enabled render stats
+  again.
   [1033-20251023] - Fixed a few bugs with memory_arena usage after recent
   changed, added some debug view stuff for memory_arena data.
 
