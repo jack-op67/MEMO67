@@ -1,4 +1,9 @@
 [changelog]
+  [1037-20251024] - Work on prototype memory/level reload/etc. Fixed bug where
+  level binary data was getting merged if there are multiple levels getting
+  written, and the previous had more entries than the current - just forgot to
+  zero out the scratch arena I was using to buffer writes.
+
   [1036-20251023] - Improvements to primitive_arena_destroy when reloading.
   [1035-20251023] - Internal shader compiling uses memory arenas instead of flex
   allocator now, few bug fixes around primitive_arena setup, some improvements
