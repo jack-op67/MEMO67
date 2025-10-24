@@ -1,4 +1,7 @@
 [changelog]
+  [1042-20251024] - New transparency up and running, basically the render_arenas
+  get re-drawn in a transparent pass before compositing, needs a bit of work but
+  mostly there.
   [1041-20251024] - Working on changing transparency render pipeline.
   [1040-20251024] - Can now set shader from a flag on the object in Blender.
   [1039-20251024] - Fixed bug with triangle_soup initialising with garbage
