@@ -1,4 +1,5 @@
 [changelog]
+  [1041-20251024] - Working on changing transparency render pipeline.
   [1040-20251024] - Can now set shader from a flag on the object in Blender.
   [1039-20251024] - Fixed bug with triangle_soup initialising with garbage
   triangle data, was calling POP_BYTES() on a memory arena non-linearly, oops.
