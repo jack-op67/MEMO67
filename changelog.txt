@@ -1,4 +1,11 @@
 [changelog]
+  [1038-20251024] - I've stripped back the memory_arena debug stuff a bit, using
+  POP_SCRATCH(memory_arena*) and keeping that scratch around beyond the next
+  linear allocation makes it extremely difficult to then remove that scratch
+  from the list of debug memory_arenas if it gets wiped as part of the parent
+  arena getting wiped. So I've simplified the debug heavily, and added
+  split_arena() which shrinks the parent arena and then does what POP_SCRATCH()
+  does.
   [1037-20251024] - Work on prototype memory/level reload/etc. Fixed bug where
   level binary data was getting merged if there are multiple levels getting
   written, and the previous had more entries than the current - just forgot to
