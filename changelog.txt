@@ -1,4 +1,7 @@
 [changelog]
+  [1043-20251024] - Another note to last commit: also added flag to create a
+  default depth_stencil or not, previously there was a bug where a default was
+  always created even if it was later replaced.
   [1042-20251024] - New transparency up and running, basically the render_arenas
   get re-drawn in a transparent pass before compositing, needs a bit of work but
   mostly there.
