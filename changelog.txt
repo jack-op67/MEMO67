@@ -1,4 +1,5 @@
 [changelog]
+  [1046-20251026] - Fixed bug with UI placement after maths/matrices changes.
   [1045-20251026] - Fixed bug with primitive arena reset.
   [1044-20251026] - Work on dev1 level.
 
