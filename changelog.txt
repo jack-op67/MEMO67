@@ -1,4 +1,5 @@
 [changelog]
+  [1045-20251026] - Fixed bug with primitive arena reset.
   [1044-20251026] - Work on dev1 level.
 
   [1043-20251024] - Another note to last commit: also added flag to create a
