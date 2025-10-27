@@ -1,4 +1,7 @@
 [changelog]
+  [1047-20251026] - Moving the working copy of model locators to game_entity
+  instead of model.
+
   [1046-20251026] - Fixed bug with UI placement after maths/matrices changes.
   [1045-20251026] - Fixed bug with primitive arena reset.
   [1044-20251026] - Work on dev1 level.
