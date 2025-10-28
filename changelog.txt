@@ -1,4 +1,6 @@
 [changelog]
+  [1049-20251028] - Again lots of small changes. Improvements to triangle_soup
+  stuff. Prototyping 1-026.
   [1048-20251028] - Lots of small changes, lots of sanity testing
   maths/quaternion stuff. GLTF loading now loads position if it is valid -
   locators are now exported from Blender with bounds origin, not 0,0,0 origin.
