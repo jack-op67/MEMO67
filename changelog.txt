@@ -1,5 +1,11 @@
 [changelog]
-  [1047-20251026] - Moving the working copy of model locators to game_entity
+  [1048-20251028] - Lots of small changes, lots of sanity testing
+  maths/quaternion stuff. GLTF loading now loads position if it is valid -
+  locators are now exported from Blender with bounds origin, not 0,0,0 origin.
+  New locator handling/updating within game_entity now mostly working. Last
+  commit date was 27th, not 26th.
+
+  [1047-20251027] - Moving the working copy of model locators to game_entity
   instead of model.
 
   [1046-20251026] - Fixed bug with UI placement after maths/matrices changes.
