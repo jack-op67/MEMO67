@@ -1,4 +1,5 @@
 [changelog]
+  [1051-20251029] - Fixed some clang compile errors. Prototyping 1-028.
   [1050-20251029] - Added instances to transparency pass. Prototyping 1-027.
 
   [1049-20251028] - Again lots of small changes. Improvements to triangle_soup
