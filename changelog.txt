@@ -1,4 +1,6 @@
 [changelog]
+  [1050-20251029] - Added instances to transparency pass. Prototyping 1-027.
+
   [1049-20251028] - Again lots of small changes. Improvements to triangle_soup
   stuff. Prototyping 1-026.
   [1048-20251028] - Lots of small changes, lots of sanity testing
