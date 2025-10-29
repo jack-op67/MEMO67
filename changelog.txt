@@ -1,4 +1,7 @@
 [changelog]
+  [1053-20251029] - Fixed a few bugs with sprite batcher after changes to
+  maths/matrices, added a billboard mode for sprite batcher as well. Added
+  collision layers to triangle soup stuff.
   [1052-20251029] - Prototyping 1-029.
   [1051-20251029] - Fixed some clang compile errors. Prototyping 1-028.
   [1050-20251029] - Added instances to transparency pass. Prototyping 1-027.
