@@ -1,4 +1,6 @@
 [changelog]
+  [1054-20251030] - Prototyping 1-030.
+
   [1053-20251029] - Fixed a few bugs with sprite batcher after changes to
   maths/matrices, added a billboard mode for sprite batcher as well. Added
   collision layers to triangle soup stuff.
