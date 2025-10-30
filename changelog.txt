@@ -1,4 +1,5 @@
 [changelog]
+  [1055-20251030] - Few bug fixes w sprite_batcher and triangle_soup y only test.
   [1054-20251030] - Prototyping 1-030.
 
   [1053-20251029] - Fixed a few bugs with sprite batcher after changes to
