@@ -1,4 +1,6 @@
 [changelog]
+  [1057-20251031] - Added fov terminal command.
+
   [1056-20251030] - Prototyping 1-031.
   [1055-20251030] - Few bug fixes w sprite_batcher and triangle_soup y only test.
   [1054-20251030] - Prototyping 1-030.
