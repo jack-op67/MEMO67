@@ -1,4 +1,8 @@
 [changelog]
+  [1059-20251031] - Model now just references one model_data, added new
+  model_sequence struct that keeps the references for multiple model_datas. In
+  proto1 there is now a model animator that advanced the model animation, this
+  isn't yet in core.
   [1058-20251031] - Fixed bug with resizing depth buffer if default depth buffer
   not created on initialisation (i.e provided after dx11 init stuff).
   [1057-20251031] - Added fov terminal command.
