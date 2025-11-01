@@ -1,4 +1,5 @@
 [changelog]
+  [1062-20251101] - Prototyping 1-033 - gamestate/title/play stuff.
   [1061-20251101] - Prototyping 1-032.
   [1060-20251101] - model_data no longer have materials per sub mesh, I've
   changed it to just a texture_id per sub mesh, there's now shader_ids[] per
