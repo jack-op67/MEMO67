@@ -1,4 +1,9 @@
 [changelog]
+  [1060-20251101] - model_data no longer have materials per sub mesh, I've
+  changed it to just a texture_id per sub mesh, there's now shader_ids[] per
+  sub mesh on the model struct, this just makes more sense when thinking in
+  terms of model_data reuse.
+
   [1059-20251031] - Model now just references one model_data, added new
   model_sequence struct that keeps the references for multiple model_datas. In
   proto1 there is now a model animator that advanced the model animation, this
