@@ -1,4 +1,6 @@
 [changelog]
+  [1068-20251102] - Prototyping 1-035. Some minor changes to input and UI kepmap
+  stuff.
   [1067-20251102] - Added controller UI select support.
   [1066-20251102] - More UI stuff, Prototyping 1-034.
   [1065-20251102] - More work on UI stuff.
