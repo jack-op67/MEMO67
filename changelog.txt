@@ -1,4 +1,7 @@
 [changelog]
+  [1064-20251102] - Removed the checkbox stuff from UI, added UI callbacks for
+  clicks.
+
   [1063-20251101] - Working on UI clicking stuff.
   [1062-20251101] - Prototyping 1-033 - gamestate/title/play stuff.
   [1061-20251101] - Prototyping 1-032.
