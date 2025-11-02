@@ -1,4 +1,5 @@
 [changelog]
+  [1069-20251102] - Fixed bug with skybox. Prototyping 1-036.
   [1068-20251102] - Prototyping 1-035. Some minor changes to input and UI kepmap
   stuff.
   [1067-20251102] - Added controller UI select support.
