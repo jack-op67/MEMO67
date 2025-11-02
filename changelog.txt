@@ -1,4 +1,5 @@
 [changelog]
+  [1065-20251102] - More work on UI stuff.
   [1064-20251102] - Removed the checkbox stuff from UI, added UI callbacks for
   clicks.
 
