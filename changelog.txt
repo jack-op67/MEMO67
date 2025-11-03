@@ -1,4 +1,6 @@
 [changelog]
+  [1072-20251103] - Added ui_destroy(). svn cleanup. Few bug fixes, and
+  prototyping 1-038.
   [1071-20251103] - Improvements to select_ui, added  gamepad and mouse over
   colouring.
   [1070-20251103] - Prototyping 1-037.
