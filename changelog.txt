@@ -1,4 +1,6 @@
 [changelog]
+  [1073-20251103] - Added billboard flag for sprites. Bug fixed on render arena
+  when drawing batches.
   [1072-20251103] - Added ui_destroy(). svn cleanup. Few bug fixes, and
   prototyping 1-038.
   [1071-20251103] - Improvements to select_ui, added  gamepad and mouse over
