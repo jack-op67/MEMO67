@@ -1,4 +1,5 @@
 [changelog]
+  [1074-20251103] - Added history to terminal.
   [1073-20251103] - Added billboard flag for sprites. Bug fixed on render arena
   when drawing batches.
   [1072-20251103] - Added ui_destroy(). svn cleanup. Few bug fixes, and
