@@ -1,4 +1,5 @@
 [changelog]
+  [1077-20251104] - Prototyping 1-40.
   [1076-20251104] - Prototyping artwork 1-39.
 
   [1075-20251103] - Fixed bug with UI dimensions getting zeroed when text and
