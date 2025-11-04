@@ -1,4 +1,6 @@
 [changelog]
+  [1076-20251104] - Prototyping artwork 1-39.
+
   [1075-20251103] - Fixed bug with UI dimensions getting zeroed when text and
   img/colour are both on the ui_element.
   [1074-20251103] - Added history to terminal.
