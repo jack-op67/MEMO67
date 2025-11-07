@@ -1,4 +1,6 @@
 [changelog]
+  [1080-20251107] - Prototyping 1-43.
+
   [1079-20251106] - Prototyping 1-42.
 
   [1078-20251105] - Prototyping 1-41.
