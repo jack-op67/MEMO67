@@ -1,4 +1,6 @@
 [changelog]
+  [1084-20251108] - Prototyping 1-47.
+
   [1083-20251107] - Prototyping 1-46.
   [1082-20251107] - Prototyping 1-45.
   [1081-20251107] - Prototyping 1-44.
