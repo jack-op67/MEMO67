@@ -1,4 +1,6 @@
 [changelog]
+  [1088-20251108] - Work on changing the debug bsphere and bbox to draw as a
+  wireframe mesh instead of using the line renderer.
   [1087-20251108] - Prototyping 1-50.
   [1086-20251108] - Prototyping 1-49.
   [1085-20251108] - Prototyping 1-48.
