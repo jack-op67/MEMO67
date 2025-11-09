@@ -1,4 +1,5 @@
 [changelog]
+  [1090-20251109] - Bug fixes, working on improving some collision stuff.
   [1089-20251109] - Done switching debug bsphere/bbox over to draw as mesh
   instead of using the line renderer.
 
