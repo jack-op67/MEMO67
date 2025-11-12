@@ -1,4 +1,6 @@
 [changelog]
+  [1094-20251112] - More collision work.
+
   [1093-20251111] - Collision work.
   [1092-20251111] - Collision almost there..
 
