@@ -1,4 +1,6 @@
 [changelog]
+  [1098-20251115] - Artwork.
+
   [1097-20251114] - Working on artwork.
 
   [1096-20251113] - Ok collisions resolution in a good-enough state for now.
