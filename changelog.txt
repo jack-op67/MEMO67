@@ -1,4 +1,6 @@
 [changelog]
+  [1099-20251116] - More artwork.
+
   [1098-20251115] - Artwork.
 
   [1097-20251114] - Working on artwork.
