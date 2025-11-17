@@ -1,4 +1,6 @@
 [changelog]
+  [1100-20251117] - Bug fixes, prototyping 1-51, artwork.
+
   [1099-20251116] - More artwork.
 
   [1098-20251115] - Artwork.
