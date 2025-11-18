@@ -1,4 +1,6 @@
 [changelog]
+  [1102-20251118] - Prototyping 1-52.
+
   [1101-20251117] - Hitbox stuff.
   [1100-20251117] - Bug fixes, prototyping 1-51, artwork.
 
