@@ -1,4 +1,6 @@
 [changelog]
+  [1105-20251119] - Artwork.
+
   [1104-20251118] - Prototyping 1-54.
   [1103-20251118] - Prototyping 1-53.
   [1102-20251118] - Prototyping 1-52.
