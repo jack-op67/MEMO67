@@ -1,4 +1,6 @@
 [changelog]
+  [1107-20251121] - Bug fixes with fixed timestep.
+
   [1106-20251120] - Hunting delta time bug when fps is capped.
 
   [1105-20251119] - Artwork.
