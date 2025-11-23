@@ -1,4 +1,6 @@
 [changelog]
+  [1109-20251123] - Moved fps cap logic to platform code.
+
   [1108-20251122] - Improved collision stability if fps drops really low (below
   fixed timestep resolution).
 
