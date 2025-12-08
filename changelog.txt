@@ -1,4 +1,6 @@
 [changelog]
+  [1112-20251208] - Artwork.
+
   [1111-20251124] - Prototyping 1-55.
 
   [1110-20251123] - Keymap is now blocked properly when using console.
