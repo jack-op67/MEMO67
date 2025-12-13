@@ -1,4 +1,6 @@
 [changelog]
+  [1114-20251213] - Trying to improve collision fps inconsistencies.
+
   [1113-20251212] - Workflow stuff.
 
   [1112-20251208] - Artwork.
