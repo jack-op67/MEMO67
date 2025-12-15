@@ -1,5 +1,7 @@
 [changelog]
-  [1115-20251215] - More collision work.
+  [1116-20251215] - Collision work.
+
+  [1115-20251214] - More collision work.
   [1115-20251214] - Collision work.
 
   [1114-20251213] - Trying to improve collision fps inconsistencies.
