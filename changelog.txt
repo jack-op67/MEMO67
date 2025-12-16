@@ -1,4 +1,6 @@
 [changelog]
+  [1117-20251216] - Collision work.
+
   [1116-20251215] - Collision work.
 
   [1115-20251214] - More collision work.
