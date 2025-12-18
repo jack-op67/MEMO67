@@ -1,4 +1,6 @@
 [changelog]
+  [1120-20251218] - Collision almost done (pls).
+
   [1119-20251217] - Collision...
 
   [1118-20251216] - Collision interpolation stuff mostly working?
