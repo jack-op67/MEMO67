@@ -1,4 +1,5 @@
 [changelog]
+  [1122-20251219] - Collision improvements.
   [1121-20251219] - Collision response improvements.
 
   [1120-20251218] - Collision almost done (pls).
