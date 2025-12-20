@@ -1,4 +1,6 @@
 [changelog]
+  [1123-20251220] - Prototyping 1-56.
+
   [1122-20251219] - Collision improvements.
   [1121-20251219] - Collision response improvements.
 
