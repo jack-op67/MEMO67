@@ -1,4 +1,6 @@
 [changelog]
+  [1125-20251221] - Prototyping 1-58.
+
   [1124-20251220] - Prototyping 1-57.
   [1123-20251220] - Prototyping 1-56.
 
