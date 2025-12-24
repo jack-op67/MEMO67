@@ -1,4 +1,6 @@
 [changelog]
+  [1127-20251224] - Working on properly separating audio to a platform layer.
+
   [1126-20251223] - Audio back up and running with new arena stuff.
 
   [1125-20251221] - Prototyping 1-58.
