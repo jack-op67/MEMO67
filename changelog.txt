@@ -1,4 +1,6 @@
 [changelog]
+  [1128-20251225] - XAudio2 platform layer implementation stuff.
+
   [1127-20251224] - Working on properly separating audio to a platform layer.
 
   [1126-20251223] - Audio back up and running with new arena stuff.
