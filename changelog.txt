@@ -1,4 +1,6 @@
 [changelog]
+  [1129-20251226] - More audio architecture work. Basics are up and running now.
+
   [1128-20251225] - XAudio2 platform layer implementation stuff.
 
   [1127-20251224] - Working on properly separating audio to a platform layer.
