@@ -1,4 +1,7 @@
 [changelog]
+  [1131-20251230] - Preparing to move to new svn-dumped minimal repo, to reduce
+  disk size of backups going into 2026.
+
   [1130-20251228] - Adding a load of unversioned filed, doing some repo server maintenance.
 
   [1129-20251226] - More audio architecture work. Basics are up and running now.
