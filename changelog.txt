@@ -1,4 +1,6 @@
 [changelog]
+  [1132-20260101] - Testing new repo.
+
   [1131-20251230] - Preparing to move to new svn-dumped minimal repo, to reduce
   disk size of backups going into 2026.
 
