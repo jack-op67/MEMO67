@@ -1,4 +1,6 @@
 [changelog]
+  [1138-20260107] - Sysadmin, audio architectture stuff.
+
   [1137-20260106] - Sysadmin.
 
   [1136-20260105] - Last bits of sysadmin stuff...
